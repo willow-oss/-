@@ -1,5 +1,5 @@
 # books and papers for learning algorithm trading
-勉強になった本を紹介します
+アルゴリズムトレーディングについて、勉強になった本を紹介します
 
 
 ## Papers
