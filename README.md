@@ -1,4 +1,4 @@
-# books and papers for learning algorithm trading
+# books and papers for learning algorithmic trading
 アルゴリズムトレーディングについて、勉強になった本を紹介します
 
 
